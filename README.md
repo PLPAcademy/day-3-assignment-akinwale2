@@ -51,9 +51,8 @@ What is the first step to install Python on a Windows system?
 A) Run the installer without any customization
 B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
-D) Install pip manually
+D) Install pip manually  (B)
 
-B
 Which option should you ensure is checked during Python installation on Windows?
 
 
