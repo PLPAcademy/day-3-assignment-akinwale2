@@ -56,6 +56,7 @@ D) Install pip manually
 B
 Which option should you ensure is checked during Python installation on Windows?
 
+
 A) Install with default settings
 B) Install to a custom directory
 C) Add Python to PATH
